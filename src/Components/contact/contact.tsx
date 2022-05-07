@@ -42,14 +42,14 @@ function Contact() {
         <a href="https://github.com/xing-wang-kai" className="contact instagram icon" target="_blank" >
           <AiFillGithub />
           <h2>
-            instagram <span>_xing_wang_kai_</span>
+            GitHub <span>Wang Kai</span>
           </h2>
         </a>
 
         <a href="https://www.linkedin.com/in/deusnir-portela-633b90181/" className="contact instagram icon" target="_blank" >
           <AiFillLinkedin />
           <h2>
-            instagram <span>Deusnir Portela</span>
+            Linkln <span>Deusnir Portela</span>
           </h2>
         </a>
 
