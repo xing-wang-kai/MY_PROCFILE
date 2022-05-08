@@ -15,10 +15,10 @@ const Portifolio = () => {
             </figure>
             <div className="portifolio-text">
            
-            <h2 className="title"> API pestshop</h2>
+            <h2 className="title"> API petshop</h2>
             <hr/>
 
-            <p className="text">Api usando metodos CRUD com integração a arquivo JSON, biblioteca Express, Cors, path usando metodológias modernas e modelo MVC, integração de pesquisa e separação de assuntos por seções, rederização no view pelo mustache</p>
+            <p className="text">API usando métodos CRUD com integração a arquivo JSON, biblioteca Express, CORS, path usando metodologias modernas e modelo MVC, integração de pesquisa e separação de assuntos por seções, renderização no view usando framework MUSTACHE</p>
             <div  className="portifolio-button"><a href="https://hidden-coast-70894.herokuapp.com/" target={"blank"}>Acesse! </a></div>
         </div>
         </div>
@@ -32,10 +32,10 @@ const Portifolio = () => {
         </div>
         <div className="portifolio-text">
            
-            <h2 className="title"> Blog Gatitos</h2>
+            <h2 className="title"> Blogue Gatitos</h2>
             <hr/>
 
-            <p className="text">Blogue gatitos usando metodos modernos de renderização com REACT, react-components, React Router e Styled Components do React</p>
+            <p className="text">Blogue Gatitos usando métodos modernos de renderização com REACT, react-components, React Router e Styled Components do React</p>
             <div  className="portifolio-button"><a href="https://secret-garden-28387.herokuapp.com/" target={"blank"}>Acesse! </a></div>
         </div>
         </div>
@@ -51,7 +51,7 @@ const Portifolio = () => {
                 <h2 className="title"> Lista To-do</h2>
                 <hr/>
 
-                <p className="text">Abordagem moderna do React js utilizando conceitos modernos de react components e hooks, além de configurações e uso de lógica em javascript para criação das funcionabilidades, React router dom para criação de rotas staticas que ajudam na navegação do SPA sem necessidade de várias requisições aumentando a performace da página.</p>
+                <p className="text">Abordagem moderna do React js utilizando conceitos modernos de React components e hooks, além de configurações e uso de lógica em Javascript para criação das funcionabilidades, React router dom para criação de rotas estáticas que ajudam na navegação do SPA sem necessidade de várias requisições aumentando a performance da página.</p>
                 <div  className="portifolio-button"><a href="https://tranquil-garden-45649.herokuapp.com/" target={"blank"}>Acesse! </a></div>
             </div>
 
