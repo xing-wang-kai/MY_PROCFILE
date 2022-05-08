@@ -29,6 +29,7 @@ const Formacao = () => {
 
                     <a href="https://cursos.alura.com.br/certificate/f5b56082-9a6b-4c4c-8b8d-ebe1bd1a5036" className="cotainer-button" target="_blank">
                     <span>Certificado II</span>
+                    
                      </a>
                 <br/>
                 <br/>
