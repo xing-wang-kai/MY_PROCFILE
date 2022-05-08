@@ -1,7 +1,7 @@
 
 .container-portifolio-main{
   width: 80%;
-  height: 1000px;
+  height: 110%;
   margin-right: auto;
   margin-left: auto;
 
@@ -53,6 +53,11 @@
   font-family: "Open Sans Condensed";
   margin-top: 10px;
 }
+.container-portifolio-titulo{
+  font-size: 3rem;
+  padding-botton: 40px;
+}
+
 @media (max-width: 900px){
   .container_portifolio-titulo{
     transform: rotate(0deg);
