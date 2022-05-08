@@ -24,6 +24,21 @@
     border-radius: 50%;
     user-select: none;
   }
+  .icon-home{
+    font-size: 60px;
+    width: 12%;
+    height: 40px;
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  .paragraph-container{
+    display: flex;
+    
+  }
+  .habilidade-titulos{
+    width: 80%;
+  }
   
   .home-container .logo .hover-show {
     position: absolute;
@@ -131,6 +146,7 @@
     opacity: 0;
     animation: fade-in 1s ease 1 0.5s forwards;
   }
+  
   
   @keyframes fade-in {
     to {
@@ -291,6 +307,9 @@
       transform: rotate(-90deg);
       font-size: 50px;
     }
+    .icon-home{
+      font-size: 35px;
+    }
   }
   
   @media (max-width: 500px) {
@@ -387,6 +406,9 @@
       gap: 10px;
       cursor: pointer;
     }
+    .icon-home{
+      font-size: 35px;
+    }
   }
   
   @media (max-width: 400px) {
@@ -471,5 +493,17 @@
       font-size: 18px;
       font-weight: 100;
       font-family: "Open Sans", sans-serif;
+      padding-left: 2%;
+      padding-right: 2%;
+    }
+    .icon-home{
+      font-size: 35px;
+    }
+    .paragraph-container{
+      display: flex;
+      
+    }
+    .habilidade-titulos{
+      width: 80%;
     }
   }

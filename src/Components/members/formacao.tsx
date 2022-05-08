@@ -3,6 +3,7 @@ import jsAlgI from '../props/js-algoritimosI.svg'
 import nest from '../props/nest01.svg'
 import react from '../props/react.svg'
 import backEnd from '../props/backend.svg'
+import graphql from '../props/graphql.svg'
 
 const Formacao = () => {
     return(
@@ -98,6 +99,28 @@ const Formacao = () => {
                 <br/ >
                 <br/ >
                     <a href="https://cursos.alura.com.br/degree/certificate/492b652d-dc01-48c3-b178-14bc3d14b106" className="cotainer-button" target="_blank">
+                    <span>Certificado I</span>
+                    </a>
+                <br/>
+                <br/>
+                </div>
+            </div>
+
+
+            <div className="container--card">
+                <div className="container--card-body">
+                <img src={graphql} alt="cursojavascript" className="container-card--img" />
+                <div className="container-card--text">
+                    <h2 className="title">Formação GraphQL</h2>
+                    <h3 className="position">GraphQL: construindo uma API com Apollo Server</h3>
+
+                    <br />
+                    <h4 className="abaut">Desenvolvimento de api Rest com GraphQL, linguagem voltada para API utilizada em qualquer banco de dados.</h4>
+                    
+                </div>
+                <br/ >
+                <br/ >
+                    <a href="https://cursos.alura.com.br/certificate/ca65fd36-ccb6-45b5-af77-659fc6420fc0" className="cotainer-button" target="_blank">
                     <span>Certificado I</span>
                     </a>
                 <br/>

@@ -1,28 +1,29 @@
 import "./nav.css";
-import { AiOutlineHome } from "react-icons/ai";
-import { AiOutlineUser } from "react-icons/ai";
+import { VscHome } from "react-icons/vsc";
+import { VscAccount } from "react-icons/vsc";
 import { BsBook } from "react-icons/bs";
-import { BiMessageRoundedDots } from "react-icons/bi";
+import { AiOutlineMessage } from "react-icons/ai";
 import { BsArrowDownCircle } from "react-icons/bs";
+import {VscMortarBoard} from 'react-icons/vsc'
 
 const NavBar = () => {
     return(
         <div className="navigation">
-        <a href="#home" className="icon active-nav">
-          <AiOutlineHome  />
-        </a>
-        <a href="#about" className="icon">
-          <AiOutlineUser  />
-        </a>
-        <a href="#certificados" className="icon">
-          <BsBook  />
-        </a>
-        <a href="#contact" className="icon">
-          <BiMessageRoundedDots  />
-        </a>
-        <a href="#footer" className="icon">
-          <BsArrowDownCircle  />
-        </a>
+          <a href="#home" className="icon active-nav">
+            <VscHome  />
+          </a>
+          <a href="#about" className="icon">
+            <VscAccount  />
+          </a>
+          <a href="#certificados" className="icon">
+            <VscMortarBoard  />
+          </a>
+          <a href="#contact" className="icon">
+            <AiOutlineMessage  />
+          </a>
+          <a href="#footer" className="icon">
+            <BsArrowDownCircle  />
+          </a>
       </div>
     )
 }
