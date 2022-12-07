@@ -6,16 +6,13 @@ Este é meu Portifolio profissional, qualquer dúvida acess:
 
 outros projetos
 
-[GATITOS](https://secret-garden-28387.herokuapp.com/login)
+[newsLetter](https://projeto-kaiwang-newsletter-tailwind.vercel.app/)
+[book store](https://projeto-kaiwang-book-store.vercel.app/)
+[google glass](https://projeto-google-glass-lake.vercel.app/)
+[Music Dot](https://musicdot-six.vercel.app/)
+[mirror Fashion](https://exercicios-html-css-js-mirror-fashio-alura.vercel.app/)
+[Barbearia Alura](https://portifolio-barbearia.vercel.app/)
 
-[PETSHOP](https://hidden-coast-70894.herokuapp.com/)
-
-[TO-DO](https://tranquil-garden-45649.herokuapp.com/)
-
-[NPM status-link-md](https://www.npmjs.com/package/status-link-md)
 
 ![Gif do portifolio](./public/portifolio.gif)
-
-
-front-end:
 
