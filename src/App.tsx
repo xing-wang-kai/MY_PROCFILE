@@ -6,7 +6,7 @@ import HeaderComponet from './Components/header/header';
 import Home from './Components/home/home';
 import NavBar from './Components/navbar/navbar';
 import Formacao from './Components/members/formacao';
-import Portifolio from "./Components/qualifications/Portifolio";
+import Works from './Components/worksCarousel/works';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
       <HeaderComponet />
       <NavBar />
       <Home />
-      <Portifolio />
+      <Works/>
       <Formacao />
       <Contact />
       <Footer />

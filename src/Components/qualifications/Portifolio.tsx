@@ -4,6 +4,7 @@ import gatito from '../props/gatitos.png'
 import todo from '../props/todo.png'
 import linkmarkdown from '../props/linkmarkdown.png';
 
+
 const Portifolio = () => {
   return (
     <div className="container-portifolio-main">
@@ -11,19 +12,19 @@ const Portifolio = () => {
       <div className = "container-portifolio-cards">
 
         <div className="container-portifolio--card">
-        <div>
-        <figure>
-              <img src={pets} className="portifolio-img"  alt="api petshop"/>
-            </figure>
-            <div className="portifolio-text">
-           
-            <h2 className="title"> API petshop</h2>
-            <hr/>
+          <div>
+          <figure>
+                <img src={pets} className="portifolio-img"  alt="api petshop"/>
+              </figure>
+              <div className="portifolio-text">
+            
+              <h2 className="title"> API petshop</h2>
+              <hr/>
 
-            <p className="text">API usando métodos CRUD com integração a arquivo JSON, biblioteca Express, CORS, path usando metodologias modernas e modelo MVC, integração de pesquisa e separação de assuntos por seções, renderização no view usando framework MUSTACHE</p>
-            <div  className="portifolio-button"><a href="https://hidden-coast-70894.herokuapp.com/" target={"blank"}>Acesse! </a></div>
-        </div>
-        </div>
+              <p className="text">API usando métodos CRUD com integração a arquivo JSON, biblioteca Express, CORS, path usando metodologias modernas e modelo MVC, integração de pesquisa e separação de assuntos por seções, renderização no view usando framework MUSTACHE</p>
+              <div  className="portifolio-button"><a href="https://hidden-coast-70894.herokuapp.com/" target={"blank"}>Acesse! </a></div>
+          </div>
+          </div>
         </div>
 
         <div className="container-portifolio--card">
@@ -74,13 +75,10 @@ const Portifolio = () => {
             <div  className="portifolio-button"><a href="https://github.com/xing-wang-kai/PROJETO_BACKEND_API_STATUSOFMARKDOWNLINK" target={"blank"}>GitHub </a></div>
         </div>
         </div>
-          
-        </div>
-        <div className="container-portifolio--card">
 
         </div>
-
       </div>
+
     </div>
   );
 };

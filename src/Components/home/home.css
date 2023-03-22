@@ -15,7 +15,8 @@
   
   .home-container .logo {
     position: inherit;
-    margin-top: -50px;
+    margin-top: -10%;
+    margin-button: -60%;
     height: 520px;
     width: 520px;
     display: flex;
@@ -31,6 +32,7 @@
     display: inline-block;
     margin-top: auto;
     margin-bottom: auto;
+    margin-right: 5%;
   }
   .paragraph-container{
     display: flex;
@@ -162,7 +164,7 @@
     justify-content: center;
     align-items: center;
     max-width: 60%;
-    margin-top: 50px;
+    margin-top: 0;
   }
   
   .home-container h2 span {
@@ -275,7 +277,7 @@
       justify-content: center;
       align-items: center;
       max-width: 100%;
-      margin-top: 200px;
+      margin-top: 20%;
     }
   
     .home-container h2 span {
@@ -309,6 +311,8 @@
     }
     .icon-home{
       font-size: 35px;
+      margin-right: 1%;
+
     }
   }
   
@@ -379,7 +383,7 @@
       justify-content: center;
       align-items: center;
       max-width: 100%;
-      margin-top: 200px;
+      margin-top: 30%;
     }
   
     .home-container h2 span {
@@ -408,6 +412,7 @@
     }
     .icon-home{
       font-size: 35px;
+      margin-right: 1%;
     }
   }
   
@@ -478,7 +483,7 @@
       justify-content: center;
       align-items: center;
       max-width: 100%;
-      margin-top: 250px;
+      margin-top: 30%;
     }
   
     .home-container h2 span {
@@ -498,6 +503,7 @@
     }
     .icon-home{
       font-size: 35px;
+      margin-right: 1%;
     }
     .paragraph-container{
       display: flex;

@@ -1,0 +1,134 @@
+.carousel-container{
+    max-width: 40%;
+    margin: auto;
+}
+
+.carousel-container .carousel{
+    display: flex;
+    overflow-x: auto; 
+    scroll-behavior: smooth;
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.carousel-container .carousel::-webkit-scrollbar{
+    display: none;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.carousel-container .carousel .item{
+    background-color: rgba(0,0,0,0.500);
+    border-radius: 20px;
+    
+    flex: none;
+    margin: 10px;
+    padding: 10px;
+    width: 96%;
+}
+
+.carousel-container .carousel .item .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-container .carousel .item .info{
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.carousel-container .carousel .item .info span{
+    display: block;
+    text-align: center;
+    
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.carousel-container .carousel .item .info .title h2{
+    font-family: "Open Sans Condensed";
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    height: 30%;
+}
+
+.carousel-container .carousel .item .info .description p{
+    font-family: "Open Sans Condensed";
+    margin-top: 10px;
+    height: 60px;
+}
+.carousel-container .carousel .item .info .portifolio-button{
+    margin: 50px auto 0 auto;
+}
+
+.carousel-container .crousel-logo{
+    font-size: 25px;
+    opacity: 0.8;
+    padding-bottom: 5px;
+    border-bottom: 2px solid var(--color-pri);
+    font-family: "Open Sans Condensed", sans-serif;
+    text-align: center;
+}
+.buttons{
+    width: 100%;
+    text-align: center;
+}
+.icon-carousel--button{
+    border: 0;
+    color: transparent;
+    background-color: transparent;
+    cursor: pointer;
+}
+.leftIcon, .rightIcon{
+    width: 150px;
+}
+
+.portifolio-button{
+    background-color: var(--color-sec-light);
+    width: 200px;
+    bottom: 0;
+    text-align: center;
+    padding: 17px 35px;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-right: 10px;
+    border-radius: 50px;
+  
+    transition: 0.1s ease;
+  }
+  
+  .portifolio-button:hover{
+    background-color: transparent;
+    border: 2px solid var(--color-sec-light);
+  }
+
+@media (max-width: 820px) {
+    .carousel-container{
+        max-width: 80%;
+        margin: auto;
+    }
+    .carousel-container .carousel{
+       
+        height: 650px;
+        overflow: auto;
+    
+    }
+    
+    .leftIcon, .rightIcon{
+        width: 300px;
+    }
+}
+@media (max-width: 750px) {
+   
+    .leftIcon, .rightIcon{
+        display: none;
+    }
+}
+

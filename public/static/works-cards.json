@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "img": "http://localhost:3000/static/props/site-musicdot.png",
+        "alt": "Imagem do home page music dot",
+        "title": "The Music dot",
+        "description": "Site 'Music Dot', tipo landing pag (site de uma página só para promoção de leads para marketing e anúncios de cursos e publicidades geral) para promover escola de música online",
+        "link": "https://musicdot-six.vercel.app/"
+    },
+    {
+        "id": 2,
+        "img": "http://localhost:3000/static/props/site-aluranewsletter.png",
+        "alt": "imagem para Alura NewsLetter",
+        "title": "Alura NewsLetter",
+        "description": "Página responsiva para envio de Newsletter",
+        "link": "https://projeto-kaiwang-newsletter-tailwind.vercel.app/"
+    }
+    ,
+    {
+        "id": 3,
+        "img": "http://localhost:3000/static/props/site-bookstore.png",
+        "alt": "imagens da site book store",
+        "title": "Book Store",
+        "description": "web página de e-commerce para venda de livros relacionados a programação, com responsabilidade para celulares",
+        "link": "https://projeto-kaiwang-book-store.vercel.app/"
+    }
+    ,
+    {
+        "id": 4,
+        "img": "http://localhost:3000/static/props/site-googleglass.png",
+        "alt": "imagem do site google glass",
+        "title": "Google glass",
+        "description": "Página com especificações técnicas relacionadas ao Google Glass com marketing para compra do produto e formulário de solicitação 'fale conosco'",
+        "link": "https://projeto-google-glass-lake.vercel.app/"
+        
+    }
+    ,
+    {
+        "id": 5,
+        "img": "http://localhost:3000/static/props/site-mirrorfashion.png",
+        "alt": "imagem do site mirror fashion",
+        "title": "Mirror Fashion",
+        "description": "Página e-commerce personalizada da loja de roupas Mirror Fashion'",
+        "link": "https://exercicios-html-css-js-mirror-fashio-alura.vercel.app/"
+        
+    }
+    ,
+    {
+        "id": 5,
+        "img": "http://localhost:3000/static/props/site-barbeariaalura.png",
+        "alt": "imagem do site Barbearia Alura",
+        "title": "Barbearia Alura",
+        "description": "Página Página comercial para solicitação e agendamentos de serviços para Barbearia Alura",
+        "link": "https://exercicios-html-css-js-mirror-fashio-alura.vercel.app/"
+        
+    }
+    ,
+    {
+        "id": 5,
+        "img": "http://localhost:3000/static/props/site-restaurantealuroni.png",
+        "alt": "imagem do site Restaurante Aluroni",
+        "title": "Aluroni",
+        "description": "Página do restaurante Aluroni, com filtros do cardápios e filtros de busca de pratos por palavras chave, os itens são adicionado dinamicamente por Json",
+        "link": "https://projeto-aluroni-nu.vercel.app/"
+        
+    }
+    
+]

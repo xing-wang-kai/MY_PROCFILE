@@ -38,7 +38,7 @@ function Home() {
         <span>Sobre Mim</span> <br />
         <p>
         <p><br />
-        Olá! Sou estudante do curso de graduação em Jogos Digitais. Sou apaixonado por códigos. Tenho Certificações em:
+        Olá! Sou estudante do curso de graduação em Jogos Digitais. Sou apaixonado por códigos. Sou certifica em desenvolvimento Web Fullstack e tenho cetificação pela google para procedimento de implementação de conversões com Google ADS, Remarketing, enhanced convertion, enhanced e-commerce, google Analytics e Google Tag Manager (GTM):
         </p>
 
         <div className="paragraph-container">
@@ -46,7 +46,7 @@ function Home() {
               <VscSymbolColor/>
             </div>
             <div className='habilidade-titulos'>
-                <p ><br />Front-end: <p className="habilidades" >HTML5, CSS3, Javascript, Sass, bootstrap, Material-Ui, Jquery, React ( react-Functions Components, React-Router, React Styled-Components, React Tdd, React Redux, React Hooks, React com Typescript). </p></p>
+                <p ><br />Front-end: <p className="habilidades" >Desenvolvimento Web front end com boas práticas de código, usando habilidade modernas com Javascript e frameworks como bootstrap, Sass, também tenho habilidade com conceitos de SPA (single page aplication) usando framework como REACT e ANGULAR. </p></p>
             </div> 
         </div>
 
@@ -55,7 +55,7 @@ function Home() {
               <VscBracketDot />
             </div>
           <div className='habilidade-titulos'>
-              <p><br />Back-end: <p className="habilidades" >TypeScript, NodeJS(Jwt, bCrypt e autentificação, ), Sequelize ORM, Moogoze, SQL(mySQL), noSQL(mongoDB), API REST, Modelos MVC, UML, NEST, GraphQL.</p></p>
+              <p><br />Back-end: <p className="habilidades" >Tenho conhecimentos de uso de diversos framework para desenvolvimento back end tanto com uso de Java spring para desenvolvimento de API como ultilização de TypeScript para desenvolvimento de sistemas com conexões com bancos de dados como SQL e mapeamento ORM (Object-Relational Mapping) ultilizando boas práticas MVC (model - view - control).</p></p>
           </div>
         </div> 
 
@@ -64,12 +64,12 @@ function Home() {
                <GiGamepad />
             </div>
         <div className='habilidade-titulos'>
-            <p><br/>Games: <p className="habilidades" >Csharp, C, C++, Unity, blender, VisualStudio, Unity, 2d games, 3d games.</p></p>
+            <p><br/>Games: <p className="habilidades" >Tenho grandes habilidades de desenvolvimento de games e já desenvolvi Motores para jogos com JAVA, também tenho habilidades em ultilizar ferramentas modernas para desenvolvimento de games 2d e 3d como Unity.</p></p>
             <br/>
         </div>
         </div>
         
-        <p><br />Pretendo com minhas habilidades me desenvolver ainda mais e ajudar no processo e no trabalho em equipe, buscando sempre a melhor prática para código e otimização de processos para reduzir tempo de testes e manter a qualidade do serviço.</p>
+        <p><br />Entre em contato comigo e faça agora mesmo seu orçamento ou sua proposta.</p>
         <br />
         </p>
       </h2>
