@@ -1,6 +1,7 @@
 .home-container {
     position: relative;
     min-height: 100vh;
+    
     padding: 50px 40px;
     margin-top: 7px;
     display: flex;
