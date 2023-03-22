@@ -18,7 +18,7 @@ const Works = () =>
         const carousel: any | null = useRef(null);
 
         useEffect( () => {
-            fetch('http://localhost:3000/static/works-cards.json')
+            fetch('https://my-procfile.vercel.app/static/works-cards.json')
                 .then((response) => response.json() )
                 .then(setWorkData);
             }, []
