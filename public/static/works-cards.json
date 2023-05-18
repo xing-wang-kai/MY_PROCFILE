@@ -63,6 +63,25 @@
         "description": "Página do restaurante Aluroni, com filtros do cardápios e filtros de busca de pratos por palavras chave, os itens são adicionado dinamicamente por Json",
         "link": "https://projeto-aluroni-nu.vercel.app/"
         
+    },
+    {
+        "id": 5,
+        "img": "https://my-procfile.vercel.app/static/props/site-restaurantealuroni.png",
+        "alt": "imagem do site Restaurante Aluroni",
+        "title": "Aluroni",
+        "description": "Página do restaurante Aluroni, com filtros do cardápios e filtros de busca de pratos por palavras chave, os itens são adicionado dinamicamente por Json",
+        "link": "https://projeto-aluroni-nu.vercel.app/"
+        
+    }
+    ,
+    {
+        "id": 6,
+        "img": "https://my-procfile.vercel.app/static/props/site-kaiwang_viagens.png.png",
+        "alt": "imagem do site kaiwang viagens",
+        "title": "kai wang viagengs",
+        "description": "Página construida no wordpress para negócios focados em roteiros de viagens, esta página possuí artificios de modificar o idioma",
+        "link": "https://kodersolutions.com/kaiwangviagens/"
+        
     }
     
 ]
